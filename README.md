@@ -19,10 +19,8 @@ No private keys, no signing, no transactions.
 - 🔧 Custom RPC and API endpoints
 
 ## 🖥️ Requirements
-
-- Python 3.10+ or Node.js 18+
 - Internet connection (for price feeds)
-- Windows, Linux, macOS
+- Windows
 
 ## 📥 Download
 
